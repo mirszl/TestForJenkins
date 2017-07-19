@@ -55,6 +55,9 @@
                 <configuration>
                     <effort>Max</effort>
                     <threshold>Low</threshold>
+                    <findbugsXmlOutput>true</findbugsXmlOutput>
+                    <findbugsXmlWithMessages>true</findbugsXmlWithMessages>
+                    <xmlOutput>true</xmlOutput>
                     <xmlOutput>true</xmlOutput>
                 </configuration>
                 <executions>
